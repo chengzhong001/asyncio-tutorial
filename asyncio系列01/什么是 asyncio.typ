@@ -4,8 +4,8 @@
     margin: (
         top:27.5mm,
         bottom:25.4mm,
-        left:35.7mm,
-        right:27.7mm
+        // left:35.7mm,
+        // right:27.7mm
     ),
     header:[
         #set text(10pt)
